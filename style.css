@@ -1,42 +1,29 @@
+img {
+	width: 279px;
+	height: 260px;
+}
+
+body {
+	background: #47e1f5;
+	text-align: center;
+}
+
 h1 {
-	color: #3197e0;
+	text-align: center;
+	color: #8a0f17;
 }
+
 div {
-	border: solid 3px #1b3ad1;
-	background:#567afc ;
-	padding: 15px;
-}
-.writing {
-	color: white;
+	display: inline-block;
+	border: solid black 3px;
+	text-align: center;
+	background: #e7fc0095 ;
+	padding: 10px;
 }
 a {
-	display: block;
-	color: white;
-	padding-left:30px ;
+	color: #6c086e;
 	text-decoration: none;
-	text-transform: uppercase;
-	padding-bottom: 2px;
-}
-
-.about_me {
-	color: black;
-}
-img {
-	width: 200px;
-	border-radius: 20px;
-}
-
-p {
-	font-style: italic;
-}
-.ghost{
-	color: red;
-}
-
-ul {
-	list-style-type: square;
-}
-
-span {
-	font-style: normal;
+	background: #00fc6595 ;
+	border: solid black 2px;
+	padding: 5px;
 }
